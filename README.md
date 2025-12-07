@@ -1,4 +1,4 @@
-## Hi there 👋
+I am learning Things of Stupid Memes
 
 <!--
 **Noddingcats/Noddingcats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
